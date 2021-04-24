@@ -9,7 +9,8 @@ With a customizable hotword, everything is possible.
 
 ## How to install
 First install apache web server, then just put all this repository inside the html folder and you're goo.</br>
-Don't forget to run the installation.sh script inside the script folder.
+Don't forget to run the installation.sh script inside the script folder. </br>
+You can edit home-intelligence's knowledge by editing the api/userDB.php file.
 
 ## Example:
 
