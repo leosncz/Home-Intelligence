@@ -16,4 +16,4 @@ Don't forget to run the installation.sh script inside the script folder.
 
 ## Future goals
 I'm developing new features such as classification and regression algorithms to automatically detect when turning on lights, tv, ... </br>
-For now only french is supported but it is ease to switch language for the speech recognition, just switch model-fr folder content with an en version from the vosk repository.
+For now only french is supported but it is easy to switch language for the speech recognition, just switch model-fr folder content with an english version from the vosk repository.
