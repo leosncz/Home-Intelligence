@@ -1,5 +1,7 @@
 # Home-Intelligence
-Software that gives your home a big brain
+Software that gives your home a brain.
+
+** This project is no longer in development, I am working on a newer version using neural networks. **
 
 ## What is it ?
 **Home-intelligence** is meant to help you while your are (or not) at your home.</br>
