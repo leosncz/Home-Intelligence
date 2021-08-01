@@ -13,7 +13,7 @@ Don't forget to run the installation.sh script inside the script folder. </br>
 You can edit home-intelligence's knowledge by editing the api/userDB.php file.
 
 ## Example:
-
+![Example](capture.png)
 
 ## Future goals
 I'm developing new features such as classification and regression algorithms to automatically detect when turning on lights, tv, ... </br>
