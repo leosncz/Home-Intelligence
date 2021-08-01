@@ -1,7 +1,7 @@
 # Home-Intelligence
 Software that gives your home a brain.
 
-**This project is no longer in development, I am working on a newer version using neural networks.**
+**This project is no longer in development, I am working on a newer version using neural networks at https://github.com/leosncz/Home-IntelligenceV2.**
 
 ## What is it ?
 **Home-intelligence** is meant to help you while your are (or not) at your home.</br>
